@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/narmada-profile-react/static/css/main.68f21831.chunk.css",
-    "main.js": "/narmada-profile-react/static/js/main.1aef1afd.chunk.js",
-    "main.js.map": "/narmada-profile-react/static/js/main.1aef1afd.chunk.js.map",
+    "main.js": "/narmada-profile-react/static/js/main.e6b4cdd6.chunk.js",
+    "main.js.map": "/narmada-profile-react/static/js/main.e6b4cdd6.chunk.js.map",
     "runtime-main.js": "/narmada-profile-react/static/js/runtime-main.e28efcad.js",
     "runtime-main.js.map": "/narmada-profile-react/static/js/runtime-main.e28efcad.js.map",
     "static/js/2.1c5eba83.chunk.js": "/narmada-profile-react/static/js/2.1c5eba83.chunk.js",
     "static/js/2.1c5eba83.chunk.js.map": "/narmada-profile-react/static/js/2.1c5eba83.chunk.js.map",
     "index.html": "/narmada-profile-react/index.html",
-    "precache-manifest.c9d682454ae383e58bf1dbdd1b8d8bc6.js": "/narmada-profile-react/precache-manifest.c9d682454ae383e58bf1dbdd1b8d8bc6.js",
+    "precache-manifest.467a74bbd6b9bd524c81d32390eab03d.js": "/narmada-profile-react/precache-manifest.467a74bbd6b9bd524c81d32390eab03d.js",
     "service-worker.js": "/narmada-profile-react/service-worker.js",
     "static/css/main.68f21831.chunk.css.map": "/narmada-profile-react/static/css/main.68f21831.chunk.css.map",
     "static/js/2.1c5eba83.chunk.js.LICENSE.txt": "/narmada-profile-react/static/js/2.1c5eba83.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e28efcad.js",
     "static/js/2.1c5eba83.chunk.js",
     "static/css/main.68f21831.chunk.css",
-    "static/js/main.1aef1afd.chunk.js"
+    "static/js/main.e6b4cdd6.chunk.js"
   ]
 }

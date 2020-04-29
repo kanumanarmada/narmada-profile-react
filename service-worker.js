@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/narmada-profile-react/precache-manifest.c9d682454ae383e58bf1dbdd1b8d8bc6.js"
+  "/narmada-profile-react/precache-manifest.467a74bbd6b9bd524c81d32390eab03d.js"
 );
 
 self.addEventListener('message', (event) => {
