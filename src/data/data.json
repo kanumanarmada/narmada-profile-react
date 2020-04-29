@@ -1,0 +1,49 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Kanuma Narmada Mani",
+                "role" : "Technical skill Trainer",
+                "email" : "narmadha.km@apssdc.in",
+                "mobile": "+91 9866944121"
+            },
+            "education":[
+                 {
+                    "degree":"M.Tech",
+                    "institution":"I completed my Post-Graduation  CSE at Anantapur - JNTUA (2011 - 2015)"
+                },
+                
+                {
+                    "degree":"B.Tech",
+                    "institution":"I completed my Graduation  CSE at Anantapur - JNTUA (2011 - 2015)"
+                },
+                {
+                    "degree":"Diploma",
+                    "institution":"I completed my Inter SLN Jr.College(Anantapur) 2009-2011"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "School Study's SSC from ZPHS School(Venkatapuram) - (2008 - 2009)"
+                }
+            ],
+            "skill":[
+     
+                {
+                    "t":"Coding Skills",
+                    "l":"C,Python, C,DataStructure"
+                },
+        {
+                    "t":"Known Technologies",
+                    "l":"Machine Learning,"
+                },
+        {
+                    "t":"Web Technologies",
+                    "l":"Html,css,Js"
+                }  
+         
+            ]
+        }
+        
+    ]
+}
+
